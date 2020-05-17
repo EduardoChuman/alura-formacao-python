@@ -1,9 +1,10 @@
-print("***************************************************")
-print("******** Bem-vindo ao jogo de Adivinhação! ********")
-print("***************************************************")
+import random
+print("{:*^60}" .format("*"))
+print("{:*^60}" .format(" Bem-vindo ao jogo de Adivinhação! "))
+print("{:*^60}" .format("*"))
 print(" ")
 
-numero_secreto = 42
+numero_secreto = random.randrange(1, 101)
 continua = 0
 tentativa = 1
 while continua == 0:
@@ -32,6 +33,6 @@ while continua == 0:
             print(" ")
 
 print(" ")
-print("***************************************************")
-print("********************** Fim! ***********************")
-print("***************************************************")
+print("{:*^60}" .format("*"))
+print("{:*^60}" .format(" Fim! "))
+print("{:*^60}" .format("*"))
