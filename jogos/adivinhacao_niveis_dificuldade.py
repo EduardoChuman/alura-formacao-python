@@ -1,6 +1,5 @@
 import random
 
-
 def jogar():
     print("{:*^60}".format("*"))
     print("{:*^60}".format(" Bem-vindo ao jogo de Adivinhação! "))
