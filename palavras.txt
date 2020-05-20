@@ -1,0 +1,11 @@
+banana
+goiaba
+melancia
+morango
+manga
+laranja
+tangerina
+tomate
+batata
+cebola
+alho
