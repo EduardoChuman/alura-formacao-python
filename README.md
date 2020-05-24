@@ -21,3 +21,13 @@ No segundo curso dessa formação aprendi:
 ### Python 3 parte 3: Introdução a Orientação a objetos
 
 No segundo curso dessa formação aprendi:
+- Realizei os primeiros passos no paradigma da orientação de objetos
+- Aprendi sobre atributos, métodos e classes com Python
+- Aprendi sobre encapsulamento (abstrair o codigo dentro do método)
+- Aprendi sobre coesão (separar os atrubutos e métodos por classe, evitando misturar assuntos e assim ter um código mais organizado)
+- Aprendi a criar atributos e métodos privados
+
+## Se aprofundando em detalhes da linguagem
+
+### Python 3: Avançando na orientação a objetos
+
