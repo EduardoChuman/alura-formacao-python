@@ -38,3 +38,11 @@ No quarto curso dessa formação aprendi:
 - Trabalhar com Mixin e extensão de classes (prestando atenção com o algoritmo MRO - Method Resolution Order)
 
 ### Python 3: Manipulação de Strings
+
+No quinto curso dessa formação aprendi:
+- Aprenda a manipular Strings com Python 3
+- Use métodos importantes das strings
+- Crie uma classe que retira informações de uma URL
+- Aprenda o que são expressões regulares
+- Trabalhe com a biblioteca re do Python 3
+- Utilize os métodos especiais do Python
